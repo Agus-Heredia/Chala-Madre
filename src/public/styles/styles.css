@@ -1,0 +1,61 @@
+/***************************************************************** NAVBAR  **********************************************************/
+
+.navbar{
+    background-color: #276054;
+}
+
+.navbar-brand {
+    color:#fff;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.nav-link {
+    font-size: 20px;
+    color:#fff
+}
+
+#nav-logo{
+    height: 30px;
+    width: 30px;
+ }
+
+#cart-logo {
+    height: 30px;
+    width: 30px;
+}
+
+/***************************************************************** BODY  **********************************************************/
+
+body{
+    background-color: #fff;
+    color: #000;
+}
+
+#section {
+    border: 2px solid #333;
+    height: 400px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+
+#section1, #section2 {
+    padding: 10px;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************************************************** FOOTER  **********************************************************/
